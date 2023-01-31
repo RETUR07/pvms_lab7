@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab7_1</string>
+    <string name="edit_message">message</string>
+    <string name="gobutton">Go!</string>
+</resources>
